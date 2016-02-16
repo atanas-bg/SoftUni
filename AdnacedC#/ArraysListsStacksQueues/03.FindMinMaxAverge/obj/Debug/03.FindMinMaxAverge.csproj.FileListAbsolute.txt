@@ -1,0 +1,6 @@
+D:\SoftUni\04.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueues\03.FindMinMaxAverge\bin\Debug\03.FindMinMaxAverge.exe.config
+D:\SoftUni\04.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueues\03.FindMinMaxAverge\bin\Debug\03.FindMinMaxAverge.exe
+D:\SoftUni\04.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueues\03.FindMinMaxAverge\bin\Debug\03.FindMinMaxAverge.pdb
+D:\SoftUni\04.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueues\03.FindMinMaxAverge\obj\Debug\03.FindMinMaxAverge.csprojResolveAssemblyReference.cache
+D:\SoftUni\04.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueues\03.FindMinMaxAverge\obj\Debug\03.FindMinMaxAverge.exe
+D:\SoftUni\04.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueues\03.FindMinMaxAverge\obj\Debug\03.FindMinMaxAverge.pdb

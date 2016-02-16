@@ -1,0 +1,6 @@
+D:\SoftUni\04.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueues\ArraysListsStacksQueues\bin\Debug\ArraysListsStacksQueues.exe.config
+D:\SoftUni\04.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueues\ArraysListsStacksQueues\bin\Debug\ArraysListsStacksQueues.exe
+D:\SoftUni\04.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueues\ArraysListsStacksQueues\bin\Debug\ArraysListsStacksQueues.pdb
+D:\SoftUni\04.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueues\ArraysListsStacksQueues\obj\Debug\01.SortArrayOfNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\04.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueues\ArraysListsStacksQueues\obj\Debug\ArraysListsStacksQueues.exe
+D:\SoftUni\04.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueues\ArraysListsStacksQueues\obj\Debug\ArraysListsStacksQueues.pdb
