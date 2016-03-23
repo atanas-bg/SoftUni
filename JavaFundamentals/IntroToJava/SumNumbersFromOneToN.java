@@ -1,4 +1,4 @@
-import java.util.Scanner;
+﻿import java.util.Scanner;
 
 /**
  * Created by User on 20.3.2016 г..
@@ -8,14 +8,14 @@ public class SumNumbersFromOneToN {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Entera number = ");
         int number = Integer.parseInt(scanner.next());
-        int sum = 0;
+        long sum = 0;
 
         sum = getSumFromOneToN(number, sum);
 
         System.out.print("Result = " + sum);
     }
 
-    private static int getSumFromOneToN(int number, int sum) {
+    private static int getSumFromOneToN(int number, long sum) {
         for (int i = 1; i <= number; i++) {
             sum += i;
         }
