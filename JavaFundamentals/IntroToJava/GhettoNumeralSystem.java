@@ -1,4 +1,4 @@
-import java.util.Scanner;
+﻿import java.util.Scanner;
 
 /**
  * Created by User on 20.3.2016 г..
@@ -10,12 +10,12 @@ public class GhettoNumeralSystem {
         String input = scanner.nextLine();
         StringBuilder result = new StringBuilder();
 
-        ConvertToGhettoNumeralSystem(input, result);
+        convertToGhettoNumeralSystem(input, result);
 
         System.out.println("Result = " + result);
     }
 
-    private static void ConvertToGhettoNumeralSystem(String input, StringBuilder result) {
+    private static void convertToGhettoNumeralSystem(String input, StringBuilder result) {
         for (int index = 0; index < input.length(); index++) {
             switch (input.charAt(index)) {
                 case '0':
