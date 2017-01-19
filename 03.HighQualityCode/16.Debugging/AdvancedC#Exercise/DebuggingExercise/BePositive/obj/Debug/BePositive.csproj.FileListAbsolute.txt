@@ -1,0 +1,5 @@
+D:\SoftUni\03.HighQualityCode\16.Debugging\AdvancedC#Exercise\DebuggingExercise\BePositive\bin\Debug\BePositive.exe.config
+D:\SoftUni\03.HighQualityCode\16.Debugging\AdvancedC#Exercise\DebuggingExercise\BePositive\bin\Debug\BePositive.exe
+D:\SoftUni\03.HighQualityCode\16.Debugging\AdvancedC#Exercise\DebuggingExercise\BePositive\bin\Debug\BePositive.pdb
+D:\SoftUni\03.HighQualityCode\16.Debugging\AdvancedC#Exercise\DebuggingExercise\BePositive\obj\Debug\BePositive.exe
+D:\SoftUni\03.HighQualityCode\16.Debugging\AdvancedC#Exercise\DebuggingExercise\BePositive\obj\Debug\BePositive.pdb

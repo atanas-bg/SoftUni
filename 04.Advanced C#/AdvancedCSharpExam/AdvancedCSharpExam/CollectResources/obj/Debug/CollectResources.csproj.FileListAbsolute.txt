@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\AdvancedCSharpExam\AdvancedCSharpExam\CollectResources\bin\Debug\CollectResources.exe.config
+C:\Users\User\Desktop\AdvancedCSharpExam\AdvancedCSharpExam\CollectResources\bin\Debug\CollectResources.exe
+C:\Users\User\Desktop\AdvancedCSharpExam\AdvancedCSharpExam\CollectResources\bin\Debug\CollectResources.pdb
+C:\Users\User\Desktop\AdvancedCSharpExam\AdvancedCSharpExam\CollectResources\obj\Debug\CollectResources.exe
+C:\Users\User\Desktop\AdvancedCSharpExam\AdvancedCSharpExam\CollectResources\obj\Debug\CollectResources.pdb
+C:\Users\User\Desktop\AdvancedCSharpExam\AdvancedCSharpExam\CollectResources\obj\Debug\CollectResources.csprojResolveAssemblyReference.cache

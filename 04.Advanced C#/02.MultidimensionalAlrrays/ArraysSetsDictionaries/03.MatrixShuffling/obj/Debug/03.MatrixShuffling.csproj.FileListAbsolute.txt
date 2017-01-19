@@ -1,0 +1,6 @@
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\ArraysSetsDictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.exe.config
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\ArraysSetsDictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.exe
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\ArraysSetsDictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.pdb
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\ArraysSetsDictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.csprojResolveAssemblyReference.cache
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\ArraysSetsDictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.exe
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\ArraysSetsDictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.pdb

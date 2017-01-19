@@ -1,0 +1,6 @@
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\Bloaters\obj\Debug\Bloaters.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\Bloaters\bin\Debug\Bloaters.exe.config
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\Bloaters\bin\Debug\Bloaters.exe
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\Bloaters\bin\Debug\Bloaters.pdb
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\Bloaters\obj\Debug\Bloaters.exe
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\Bloaters\obj\Debug\Bloaters.pdb

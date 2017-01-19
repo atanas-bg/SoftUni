@@ -1,0 +1,8 @@
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\TirePressureMonitoringSystem\TestPressureSystem\bin\Debug\TestPressureSystem.exe.config
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\TirePressureMonitoringSystem\TestPressureSystem\bin\Debug\TestPressureSystem.exe
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\TirePressureMonitoringSystem\TestPressureSystem\bin\Debug\TestPressureSystem.pdb
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\TirePressureMonitoringSystem\TestPressureSystem\obj\Debug\TestPressureSystem.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\TirePressureMonitoringSystem\TestPressureSystem\obj\Debug\TestPressureSystem.exe
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\TirePressureMonitoringSystem\TestPressureSystem\obj\Debug\TestPressureSystem.pdb
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\TirePressureMonitoringSystem\TestPressureSystem\bin\Debug\Moq.dll
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\TirePressureMonitoringSystem\TestPressureSystem\bin\Debug\Moq.xml

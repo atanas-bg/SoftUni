@@ -1,0 +1,5 @@
+D:\SoftUni\04.Advanced C#\06.FunctionalProgrammming\4. Advanced-CSharp-Functional-Programming-Demos\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+D:\SoftUni\04.Advanced C#\06.FunctionalProgrammming\4. Advanced-CSharp-Functional-Programming-Demos\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+D:\SoftUni\04.Advanced C#\06.FunctionalProgrammming\4. Advanced-CSharp-Functional-Programming-Demos\LambdaExpressions\obj\x86\Debug\3. Lambda-Expressions.csprojResolveAssemblyReference.cache
+D:\SoftUni\04.Advanced C#\06.FunctionalProgrammming\4. Advanced-CSharp-Functional-Programming-Demos\LambdaExpressions\obj\x86\Debug\LambdaExpressions.exe
+D:\SoftUni\04.Advanced C#\06.FunctionalProgrammming\4. Advanced-CSharp-Functional-Programming-Demos\LambdaExpressions\obj\x86\Debug\LambdaExpressions.pdb

@@ -1,0 +1,8 @@
+D:\SoftUni\03.HighQualityCode\11.UnitTesting\11. Unit-Testing-Demos\Unit-Testing-Demos\NUnit-Demo\TestBank\bin\Debug\TestBank.dll
+D:\SoftUni\03.HighQualityCode\11.UnitTesting\11. Unit-Testing-Demos\Unit-Testing-Demos\NUnit-Demo\TestBank\bin\Debug\TestBank.pdb
+D:\SoftUni\03.HighQualityCode\11.UnitTesting\11. Unit-Testing-Demos\Unit-Testing-Demos\NUnit-Demo\TestBank\bin\Debug\Bank.dll
+D:\SoftUni\03.HighQualityCode\11.UnitTesting\11. Unit-Testing-Demos\Unit-Testing-Demos\NUnit-Demo\TestBank\bin\Debug\nunit.framework.dll
+D:\SoftUni\03.HighQualityCode\11.UnitTesting\11. Unit-Testing-Demos\Unit-Testing-Demos\NUnit-Demo\TestBank\bin\Debug\Bank.pdb
+D:\SoftUni\03.HighQualityCode\11.UnitTesting\11. Unit-Testing-Demos\Unit-Testing-Demos\NUnit-Demo\TestBank\obj\Debug\TestBank.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.HighQualityCode\11.UnitTesting\11. Unit-Testing-Demos\Unit-Testing-Demos\NUnit-Demo\TestBank\obj\Debug\TestBank.dll
+D:\SoftUni\03.HighQualityCode\11.UnitTesting\11. Unit-Testing-Demos\Unit-Testing-Demos\NUnit-Demo\TestBank\obj\Debug\TestBank.pdb

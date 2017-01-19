@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Izpit 13.03.2016\ExamAdvancedCSharp\03.BasicMarkUpLanguage\bin\Debug\03.BasicMarkUpLanguage.exe.config
+C:\Users\User\Desktop\Izpit 13.03.2016\ExamAdvancedCSharp\03.BasicMarkUpLanguage\bin\Debug\03.BasicMarkUpLanguage.exe
+C:\Users\User\Desktop\Izpit 13.03.2016\ExamAdvancedCSharp\03.BasicMarkUpLanguage\bin\Debug\03.BasicMarkUpLanguage.pdb
+C:\Users\User\Desktop\Izpit 13.03.2016\ExamAdvancedCSharp\03.BasicMarkUpLanguage\obj\Debug\03.BasicMarkUpLanguage.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Izpit 13.03.2016\ExamAdvancedCSharp\03.BasicMarkUpLanguage\obj\Debug\03.BasicMarkUpLanguage.exe
+C:\Users\User\Desktop\Izpit 13.03.2016\ExamAdvancedCSharp\03.BasicMarkUpLanguage\obj\Debug\03.BasicMarkUpLanguage.pdb

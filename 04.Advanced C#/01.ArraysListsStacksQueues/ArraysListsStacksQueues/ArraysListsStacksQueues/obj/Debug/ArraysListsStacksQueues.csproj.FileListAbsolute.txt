@@ -1,0 +1,1 @@
+D:\SoftUni\04.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueues\ArraysListsStacksQueues\bin\Debug\ArraysListsStacksQueues.exe.config

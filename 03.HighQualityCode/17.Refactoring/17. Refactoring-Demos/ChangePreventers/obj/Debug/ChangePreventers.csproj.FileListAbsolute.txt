@@ -1,0 +1,6 @@
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\ChangePreventers\bin\Debug\ChangePreventers.exe.config
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\ChangePreventers\bin\Debug\ChangePreventers.exe
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\ChangePreventers\bin\Debug\ChangePreventers.pdb
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\ChangePreventers\obj\Debug\ChangePreventers.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\ChangePreventers\obj\Debug\ChangePreventers.exe
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\ChangePreventers\obj\Debug\ChangePreventers.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\WebCrawler\bin\Debug\WebCrawler.exe.config
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\WebCrawler\bin\Debug\WebCrawler.exe
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\WebCrawler\bin\Debug\WebCrawler.pdb
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\WebCrawler\obj\Debug\WebCrawler.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\WebCrawler\obj\Debug\WebCrawler.exe
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\WebCrawler\obj\Debug\WebCrawler.pdb

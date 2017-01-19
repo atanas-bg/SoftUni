@@ -1,0 +1,6 @@
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\ArraysSetsDictionaries\01.FillTheMatrix\bin\Debug\_01.FillTheMatrix.exe.config
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\ArraysSetsDictionaries\01.FillTheMatrix\bin\Debug\_01.FillTheMatrix.exe
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\ArraysSetsDictionaries\01.FillTheMatrix\bin\Debug\_01.FillTheMatrix.pdb
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\ArraysSetsDictionaries\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.csprojResolveAssemblyReference.cache
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\ArraysSetsDictionaries\01.FillTheMatrix\obj\Debug\_01.FillTheMatrix.exe
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\ArraysSetsDictionaries\01.FillTheMatrix\obj\Debug\_01.FillTheMatrix.pdb

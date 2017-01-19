@@ -1,0 +1,6 @@
+D:\SoftUni\04.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueues\02.SortArrayWithSelectionSort\bin\Debug\02.SortArrayWithSelectionSort.exe.config
+D:\SoftUni\04.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueues\02.SortArrayWithSelectionSort\bin\Debug\02.SortArrayWithSelectionSort.exe
+D:\SoftUni\04.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueues\02.SortArrayWithSelectionSort\bin\Debug\02.SortArrayWithSelectionSort.pdb
+D:\SoftUni\04.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueues\02.SortArrayWithSelectionSort\obj\Debug\02.SortArrayWithSelectionSort.exe
+D:\SoftUni\04.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueues\02.SortArrayWithSelectionSort\obj\Debug\02.SortArrayWithSelectionSort.pdb
+D:\SoftUni\04.Advanced C#\01.ArraysListsStacksQueues\ArraysListsStacksQueues\02.SortArrayWithSelectionSort\obj\Debug\02.SortArrayWithSelectionSort.csprojResolveAssemblyReference.cache

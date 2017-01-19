@@ -1,0 +1,6 @@
+DecimalFormat format = (DecimalFormat) NumberFormat.getInstance(Locale.US);
+format.setParseBigDecimal(true);
+BigDecimal number = (BigDecimal) format.parse("835,111.2");
+
+
+BigDecimal big = new BigDecimal(String str.replaceAll(...))

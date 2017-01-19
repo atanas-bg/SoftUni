@@ -1,0 +1,1 @@
+String[] stringArray = streamString.toArray(String[]::new);

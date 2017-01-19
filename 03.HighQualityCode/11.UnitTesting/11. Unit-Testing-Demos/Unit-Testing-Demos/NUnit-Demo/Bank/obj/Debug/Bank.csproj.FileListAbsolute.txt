@@ -1,0 +1,5 @@
+D:\SoftUni\03.HighQualityCode\11.UnitTesting\11. Unit-Testing-Demos\Unit-Testing-Demos\NUnit-Demo\Bank\bin\Debug\Bank.dll
+D:\SoftUni\03.HighQualityCode\11.UnitTesting\11. Unit-Testing-Demos\Unit-Testing-Demos\NUnit-Demo\Bank\bin\Debug\Bank.pdb
+D:\SoftUni\03.HighQualityCode\11.UnitTesting\11. Unit-Testing-Demos\Unit-Testing-Demos\NUnit-Demo\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.HighQualityCode\11.UnitTesting\11. Unit-Testing-Demos\Unit-Testing-Demos\NUnit-Demo\Bank\obj\Debug\Bank.dll
+D:\SoftUni\03.HighQualityCode\11.UnitTesting\11. Unit-Testing-Demos\Unit-Testing-Demos\NUnit-Demo\Bank\obj\Debug\Bank.pdb

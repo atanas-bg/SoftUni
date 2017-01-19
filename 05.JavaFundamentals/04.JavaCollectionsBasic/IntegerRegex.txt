@@ -1,0 +1,5 @@
+if(value.matches("^(\d+)$") {
+    Integer.parseInt(value);
+}
+
+^(?!0.)\d+$ - негативен LookAhead

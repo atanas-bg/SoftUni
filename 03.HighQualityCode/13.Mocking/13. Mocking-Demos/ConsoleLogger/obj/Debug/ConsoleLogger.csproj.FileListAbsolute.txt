@@ -1,0 +1,5 @@
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\ConsoleLogger\bin\Debug\ConsoleLogger.exe.config
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\ConsoleLogger\bin\Debug\ConsoleLogger.exe
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\ConsoleLogger\bin\Debug\ConsoleLogger.pdb
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\ConsoleLogger\obj\Debug\ConsoleLogger.exe
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\ConsoleLogger\obj\Debug\ConsoleLogger.pdb

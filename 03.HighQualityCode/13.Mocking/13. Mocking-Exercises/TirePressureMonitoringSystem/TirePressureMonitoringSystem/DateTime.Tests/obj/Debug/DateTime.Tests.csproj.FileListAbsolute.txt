@@ -1,0 +1,9 @@
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\TirePressureMonitoringSystem\DateTime.Tests\bin\Debug\DateTime.Tests.dll
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\TirePressureMonitoringSystem\DateTime.Tests\bin\Debug\DateTime.Tests.pdb
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\TirePressureMonitoringSystem\DateTime.Tests\bin\Debug\Moq.dll
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\TirePressureMonitoringSystem\DateTime.Tests\bin\Debug\Moq.xml
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\TirePressureMonitoringSystem\DateTime.Tests\obj\Debug\DateTime.Tests.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\TirePressureMonitoringSystem\DateTime.Tests\obj\Debug\DateTime.Tests.dll
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\TirePressureMonitoringSystem\DateTime.Tests\obj\Debug\DateTime.Tests.pdb
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\TirePressureMonitoringSystem\DateTime.Tests\bin\Debug\DateTime.exe
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\TirePressureMonitoringSystem\DateTime.Tests\bin\Debug\DateTime.pdb

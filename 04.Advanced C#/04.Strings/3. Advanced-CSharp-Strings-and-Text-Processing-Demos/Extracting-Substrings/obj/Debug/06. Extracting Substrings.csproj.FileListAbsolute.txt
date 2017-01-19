@@ -1,0 +1,5 @@
+D:\SoftUni\04.Advanced C#\04.Strings\3. Advanced-CSharp-Strings-and-Text-Processing-Demos\Extracting-Substrings\bin\Debug\Extracting-Substrings.exe
+D:\SoftUni\04.Advanced C#\04.Strings\3. Advanced-CSharp-Strings-and-Text-Processing-Demos\Extracting-Substrings\bin\Debug\Extracting-Substrings.pdb
+D:\SoftUni\04.Advanced C#\04.Strings\3. Advanced-CSharp-Strings-and-Text-Processing-Demos\Extracting-Substrings\obj\Debug\06. Extracting Substrings.csprojResolveAssemblyReference.cache
+D:\SoftUni\04.Advanced C#\04.Strings\3. Advanced-CSharp-Strings-and-Text-Processing-Demos\Extracting-Substrings\obj\Debug\Extracting-Substrings.exe
+D:\SoftUni\04.Advanced C#\04.Strings\3. Advanced-CSharp-Strings-and-Text-Processing-Demos\Extracting-Substrings\obj\Debug\Extracting-Substrings.pdb

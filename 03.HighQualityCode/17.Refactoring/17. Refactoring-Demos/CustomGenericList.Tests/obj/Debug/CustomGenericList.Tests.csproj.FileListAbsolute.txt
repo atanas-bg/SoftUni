@@ -1,0 +1,7 @@
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\CustomGenericList.Tests\bin\Debug\CustomGenericList.Tests.dll
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\CustomGenericList.Tests\bin\Debug\CustomGenericList.Tests.pdb
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\CustomGenericList.Tests\bin\Debug\CustomGenericList.exe
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\CustomGenericList.Tests\bin\Debug\CustomGenericList.pdb
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\CustomGenericList.Tests\obj\Debug\CustomGenericList.Tests.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\CustomGenericList.Tests\obj\Debug\CustomGenericList.Tests.dll
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\CustomGenericList.Tests\obj\Debug\CustomGenericList.Tests.pdb

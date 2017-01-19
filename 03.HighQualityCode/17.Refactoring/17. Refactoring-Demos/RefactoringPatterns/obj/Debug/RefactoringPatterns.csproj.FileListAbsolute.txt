@@ -1,0 +1,6 @@
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\RefactoringPatterns\bin\Debug\RefactoringPatterns.exe.config
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\RefactoringPatterns\bin\Debug\RefactoringPatterns.exe
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\RefactoringPatterns\bin\Debug\RefactoringPatterns.pdb
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\RefactoringPatterns\obj\Debug\RefactoringPatterns.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\RefactoringPatterns\obj\Debug\RefactoringPatterns.exe
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\RefactoringPatterns\obj\Debug\RefactoringPatterns.pdb

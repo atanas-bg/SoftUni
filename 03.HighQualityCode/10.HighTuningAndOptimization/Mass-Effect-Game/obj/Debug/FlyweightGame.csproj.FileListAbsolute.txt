@@ -1,0 +1,13 @@
+D:\SoftUni\03.HighQualityCode\10.HighTuningAndOptimization\Mass-Effect-Game\bin\Debug\FlyweightGame.exe.config
+D:\SoftUni\03.HighQualityCode\10.HighTuningAndOptimization\Mass-Effect-Game\bin\Debug\FlyweightGame.exe
+D:\SoftUni\03.HighQualityCode\10.HighTuningAndOptimization\Mass-Effect-Game\bin\Debug\FlyweightGame.pdb
+D:\SoftUni\03.HighQualityCode\10.HighTuningAndOptimization\Mass-Effect-Game\obj\Debug\FlyweightGame.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.HighQualityCode\10.HighTuningAndOptimization\Mass-Effect-Game\obj\Debug\MainWindow.baml
+D:\SoftUni\03.HighQualityCode\10.HighTuningAndOptimization\Mass-Effect-Game\obj\Debug\MainWindow.g.cs
+D:\SoftUni\03.HighQualityCode\10.HighTuningAndOptimization\Mass-Effect-Game\obj\Debug\App.g.cs
+D:\SoftUni\03.HighQualityCode\10.HighTuningAndOptimization\Mass-Effect-Game\obj\Debug\FlyweightGame_MarkupCompile.cache
+D:\SoftUni\03.HighQualityCode\10.HighTuningAndOptimization\Mass-Effect-Game\obj\Debug\FlyweightGame.g.resources
+D:\SoftUni\03.HighQualityCode\10.HighTuningAndOptimization\Mass-Effect-Game\obj\Debug\FlyweightGame.Properties.Resources.resources
+D:\SoftUni\03.HighQualityCode\10.HighTuningAndOptimization\Mass-Effect-Game\obj\Debug\FlyweightGame.csproj.GenerateResource.Cache
+D:\SoftUni\03.HighQualityCode\10.HighTuningAndOptimization\Mass-Effect-Game\obj\Debug\FlyweightGame.exe
+D:\SoftUni\03.HighQualityCode\10.HighTuningAndOptimization\Mass-Effect-Game\obj\Debug\FlyweightGame.pdb

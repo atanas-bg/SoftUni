@@ -1,0 +1,4 @@
+D:\SoftUni\04.Advanced C#\04.Strings\3. Advanced-CSharp-Strings-and-Text-Processing-Demos\String-Concatenation\bin\Debug\String-Concatenation.exe
+D:\SoftUni\04.Advanced C#\04.Strings\3. Advanced-CSharp-Strings-and-Text-Processing-Demos\String-Concatenation\bin\Debug\String-Concatenation.pdb
+D:\SoftUni\04.Advanced C#\04.Strings\3. Advanced-CSharp-Strings-and-Text-Processing-Demos\String-Concatenation\obj\Debug\String-Concatenation.exe
+D:\SoftUni\04.Advanced C#\04.Strings\3. Advanced-CSharp-Strings-and-Text-Processing-Demos\String-Concatenation\obj\Debug\String-Concatenation.pdb

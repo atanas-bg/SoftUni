@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\AdvancedCSharpExam\AdvancedCSharpExam\Events\bin\Debug\Events.exe.config
+C:\Users\User\Desktop\AdvancedCSharpExam\AdvancedCSharpExam\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache

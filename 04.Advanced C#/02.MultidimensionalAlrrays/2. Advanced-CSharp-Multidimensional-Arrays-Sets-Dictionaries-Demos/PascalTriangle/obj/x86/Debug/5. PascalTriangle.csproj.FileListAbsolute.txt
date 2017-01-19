@@ -1,0 +1,4 @@
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\PascalTriangle\bin\Debug\PascalTriangle.exe
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\PascalTriangle\bin\Debug\PascalTriangle.pdb
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\PascalTriangle\obj\x86\Debug\PascalTriangle.exe
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\PascalTriangle\obj\x86\Debug\PascalTriangle.pdb

@@ -1,0 +1,12 @@
+
+public class CalculateExpressions {
+
+	public static void main(String[] args) {
+		// ((a2 + b2) / (a2 – b2))(a + b + c) / √c
+		// (a2 + b2 - c3) pow (a – b)
+		// Average (a, b, c) – Average (f1, f2)
+Scanner console = new Scanner(System.in);
+
+	}
+
+}

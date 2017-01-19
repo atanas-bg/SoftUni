@@ -1,0 +1,25 @@
+String input = "1 2 3 oops 4 5 6";
+    Scanner sc = new Scanner(input);
+    while (sc.hasNext()) {
+        if (sc.hasNextInt()) {
+            int num = sc.nextInt();
+            System.out.println("Got " + num);
+		//break;
+        } else {
+            System.out.println("int, please!");
+            //sc.next(); // uncomment to fix!
+        }
+    }
+
+
+ String input = " 1 true foo 2 false bar 3 ";
+    Scanner sc = new Scanner(input);
+    while (sc.hasNext()) {
+        if (sc.hasNextInt()) {
+            System.out.println("(int) " + sc.nextInt());
+        } else if (sc.hasNextBoolean()) {
+            System.out.println("(boolean) " + sc.nextBoolean());
+        } else {
+            System.out.println(sc.next());
+        }
+    }

@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Izpit 13.03.2016\ExamAdvancedCSharp\04.ChampionsLeague\bin\Debug\04.ChampionsLeague.exe.config
+C:\Users\User\Desktop\Izpit 13.03.2016\ExamAdvancedCSharp\04.ChampionsLeague\bin\Debug\04.ChampionsLeague.exe
+C:\Users\User\Desktop\Izpit 13.03.2016\ExamAdvancedCSharp\04.ChampionsLeague\bin\Debug\04.ChampionsLeague.pdb
+C:\Users\User\Desktop\Izpit 13.03.2016\ExamAdvancedCSharp\04.ChampionsLeague\obj\Debug\04.ChampionsLeague.exe
+C:\Users\User\Desktop\Izpit 13.03.2016\ExamAdvancedCSharp\04.ChampionsLeague\obj\Debug\04.ChampionsLeague.pdb

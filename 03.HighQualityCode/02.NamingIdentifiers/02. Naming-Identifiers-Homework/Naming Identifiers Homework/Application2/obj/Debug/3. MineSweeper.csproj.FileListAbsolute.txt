@@ -1,0 +1,6 @@
+D:\SoftUni\03.HighQualityCode\02.NamingIdentifiers\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\obj\Debug\3. MineSweeper.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.HighQualityCode\02.NamingIdentifiers\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\bin\Debug\MineSweeper.exe.config
+D:\SoftUni\03.HighQualityCode\02.NamingIdentifiers\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\bin\Debug\MineSweeper.exe
+D:\SoftUni\03.HighQualityCode\02.NamingIdentifiers\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\bin\Debug\MineSweeper.pdb
+D:\SoftUni\03.HighQualityCode\02.NamingIdentifiers\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\obj\Debug\MineSweeper.exe
+D:\SoftUni\03.HighQualityCode\02.NamingIdentifiers\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\obj\Debug\MineSweeper.pdb

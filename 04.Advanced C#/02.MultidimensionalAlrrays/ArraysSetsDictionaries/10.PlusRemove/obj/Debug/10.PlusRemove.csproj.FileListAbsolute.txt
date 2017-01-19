@@ -1,0 +1,6 @@
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\ArraysSetsDictionaries\10.PlusRemove\bin\Debug\10.PlusRemove.exe.config
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\ArraysSetsDictionaries\10.PlusRemove\bin\Debug\10.PlusRemove.exe
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\ArraysSetsDictionaries\10.PlusRemove\bin\Debug\10.PlusRemove.pdb
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\ArraysSetsDictionaries\10.PlusRemove\obj\Debug\10.PlusRemove.csprojResolveAssemblyReference.cache
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\ArraysSetsDictionaries\10.PlusRemove\obj\Debug\10.PlusRemove.exe
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\ArraysSetsDictionaries\10.PlusRemove\obj\Debug\10.PlusRemove.pdb

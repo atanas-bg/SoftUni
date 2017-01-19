@@ -1,0 +1,4 @@
+Random r = new Random();
+int Low = 10;
+int High = 100;
+int Result = r.nextInt(High-Low) + Low;

@@ -1,0 +1,1 @@
+D:\SoftUni\04.Advanced C#\06.FunctionalProgrammming\4. Advanced-CSharp-Functional-Programming-Demos\LINQ-Extenstion-Methods\bin\Debug\LINQ-Extenstion-Methods.exe.config

@@ -1,0 +1,6 @@
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Homework\Matrix\WalkInMatrix\bin\Debug\Matrix.exe.config
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Homework\Matrix\WalkInMatrix\bin\Debug\Matrix.exe
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Homework\Matrix\WalkInMatrix\bin\Debug\Matrix.pdb
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Homework\Matrix\WalkInMatrix\obj\Debug\WalkInMatrix.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Homework\Matrix\WalkInMatrix\obj\Debug\Matrix.exe
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Homework\Matrix\WalkInMatrix\obj\Debug\Matrix.pdb

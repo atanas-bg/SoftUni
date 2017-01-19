@@ -1,0 +1,4 @@
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\MaxPlatform\bin\Debug\MaxPlatform.exe
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\MaxPlatform\bin\Debug\MaxPlatform.pdb
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\MaxPlatform\obj\Debug\MaxPlatform.exe
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\MaxPlatform\obj\Debug\MaxPlatform.pdb

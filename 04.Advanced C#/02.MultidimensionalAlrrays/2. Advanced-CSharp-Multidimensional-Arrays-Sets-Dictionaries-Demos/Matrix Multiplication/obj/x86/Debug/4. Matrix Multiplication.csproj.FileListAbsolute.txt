@@ -1,0 +1,4 @@
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\Matrix Multiplication\bin\Debug\Matrix Multiplication.exe
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\Matrix Multiplication\bin\Debug\Matrix Multiplication.pdb
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\Matrix Multiplication\obj\x86\Debug\Matrix Multiplication.exe
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\Matrix Multiplication\obj\x86\Debug\Matrix Multiplication.pdb

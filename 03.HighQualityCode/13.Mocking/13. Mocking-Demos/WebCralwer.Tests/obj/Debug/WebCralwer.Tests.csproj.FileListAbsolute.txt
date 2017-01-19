@@ -1,0 +1,9 @@
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\WebCralwer.Tests\bin\Debug\WebCralwer.Tests.dll
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\WebCralwer.Tests\bin\Debug\WebCralwer.Tests.pdb
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\WebCralwer.Tests\bin\Debug\WebCrawler.exe
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\WebCralwer.Tests\bin\Debug\WebCrawler.pdb
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\WebCralwer.Tests\obj\Debug\WebCralwer.Tests.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\WebCralwer.Tests\obj\Debug\WebCralwer.Tests.dll
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\WebCralwer.Tests\obj\Debug\WebCralwer.Tests.pdb
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\WebCralwer.Tests\bin\Debug\Moq.dll
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\WebCralwer.Tests\bin\Debug\Moq.xml

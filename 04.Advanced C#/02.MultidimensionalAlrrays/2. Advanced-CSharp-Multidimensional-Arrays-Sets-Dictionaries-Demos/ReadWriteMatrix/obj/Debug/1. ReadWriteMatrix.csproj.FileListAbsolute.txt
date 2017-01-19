@@ -1,0 +1,5 @@
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\ReadWriteMatrix\bin\Debug\ReadWriteMatrix.exe
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\ReadWriteMatrix\bin\Debug\ReadWriteMatrix.pdb
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\ReadWriteMatrix\obj\Debug\1. ReadWriteMatrix.csprojResolveAssemblyReference.cache
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\ReadWriteMatrix\obj\Debug\ReadWriteMatrix.exe
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\ReadWriteMatrix\obj\Debug\ReadWriteMatrix.pdb

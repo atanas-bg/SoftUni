@@ -1,0 +1,6 @@
+D:\SoftUni\03.HighQualityCode\18.ExamPreparation\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BULS\bin\Debug\BangaloreUniversityLearningSystem.exe.config
+D:\SoftUni\03.HighQualityCode\18.ExamPreparation\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BULS\obj\Debug\BULS.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.HighQualityCode\18.ExamPreparation\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BULS\bin\Debug\BangaloreUniversityLearningSystem.exe
+D:\SoftUni\03.HighQualityCode\18.ExamPreparation\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BULS\bin\Debug\BangaloreUniversityLearningSystem.pdb
+D:\SoftUni\03.HighQualityCode\18.ExamPreparation\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BULS\obj\Debug\BangaloreUniversityLearningSystem.exe
+D:\SoftUni\03.HighQualityCode\18.ExamPreparation\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BULS\obj\Debug\BangaloreUniversityLearningSystem.pdb

@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+public class ConvertFromDecimalSystemToBase7 {
+
+	public static void main(String[] args) {
+		Scanner console = new Scanner(System.in);
+		int a = console.nextInt();
+		String seven = Integer.toString(a, 7);
+	}
+
+}

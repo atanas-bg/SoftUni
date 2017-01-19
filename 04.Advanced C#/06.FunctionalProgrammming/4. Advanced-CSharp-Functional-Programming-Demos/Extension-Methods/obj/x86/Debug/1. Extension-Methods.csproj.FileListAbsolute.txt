@@ -1,0 +1,4 @@
+D:\SoftUni\04.Advanced C#\06.FunctionalProgrammming\4. Advanced-CSharp-Functional-Programming-Demos\Extension-Methods\bin\Debug\Extension-Methods.exe
+D:\SoftUni\04.Advanced C#\06.FunctionalProgrammming\4. Advanced-CSharp-Functional-Programming-Demos\Extension-Methods\bin\Debug\Extension-Methods.pdb
+D:\SoftUni\04.Advanced C#\06.FunctionalProgrammming\4. Advanced-CSharp-Functional-Programming-Demos\Extension-Methods\obj\x86\Debug\Extension-Methods.exe
+D:\SoftUni\04.Advanced C#\06.FunctionalProgrammming\4. Advanced-CSharp-Functional-Programming-Demos\Extension-Methods\obj\x86\Debug\Extension-Methods.pdb

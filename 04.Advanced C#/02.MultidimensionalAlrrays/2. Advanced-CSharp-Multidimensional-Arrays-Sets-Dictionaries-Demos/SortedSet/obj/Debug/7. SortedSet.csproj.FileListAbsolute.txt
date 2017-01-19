@@ -1,0 +1,11 @@
+C:\SVN\csharp-advanced\May-2015\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\SortedSet\bin\Debug\SortedSet.exe.config
+C:\SVN\csharp-advanced\May-2015\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\SortedSet\bin\Debug\SortedSet.exe
+C:\SVN\csharp-advanced\May-2015\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\SortedSet\bin\Debug\SortedSet.pdb
+C:\SVN\csharp-advanced\May-2015\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\SortedSet\obj\Debug\SortedSet.exe
+C:\SVN\csharp-advanced\May-2015\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\SortedSet\obj\Debug\SortedSet.pdb
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\SortedSet\bin\Debug\SortedSet.exe.config
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\SortedSet\obj\Debug\SortedSet.exe
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\SortedSet\obj\Debug\SortedSet.pdb
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\SortedSet\bin\Debug\SortedSet.exe
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\SortedSet\bin\Debug\SortedSet.pdb
+D:\SoftUni\04.Advanced C#\02.MultidimensionalAlrrays\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\SortedSet\obj\Debug\7. SortedSet.csprojResolveAssemblyReference.cache

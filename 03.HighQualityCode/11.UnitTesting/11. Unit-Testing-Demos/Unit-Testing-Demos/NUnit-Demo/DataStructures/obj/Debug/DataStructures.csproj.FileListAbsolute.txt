@@ -1,0 +1,6 @@
+D:\SoftUni\03.HighQualityCode\11.UnitTesting\11. Unit-Testing-Demos\Unit-Testing-Demos\NUnit-Demo\DataStructures\bin\Debug\DataStructures.exe.config
+D:\SoftUni\03.HighQualityCode\11.UnitTesting\11. Unit-Testing-Demos\Unit-Testing-Demos\NUnit-Demo\DataStructures\bin\Debug\DataStructures.exe
+D:\SoftUni\03.HighQualityCode\11.UnitTesting\11. Unit-Testing-Demos\Unit-Testing-Demos\NUnit-Demo\DataStructures\bin\Debug\DataStructures.pdb
+D:\SoftUni\03.HighQualityCode\11.UnitTesting\11. Unit-Testing-Demos\Unit-Testing-Demos\NUnit-Demo\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.HighQualityCode\11.UnitTesting\11. Unit-Testing-Demos\Unit-Testing-Demos\NUnit-Demo\DataStructures\obj\Debug\DataStructures.exe
+D:\SoftUni\03.HighQualityCode\11.UnitTesting\11. Unit-Testing-Demos\Unit-Testing-Demos\NUnit-Demo\DataStructures\obj\Debug\DataStructures.pdb

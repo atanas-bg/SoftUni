@@ -1,0 +1,7 @@
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\PhonebookSystem\PhonebookSystem.Tests\bin\Debug\PhonebookSystem.Tests.dll
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\PhonebookSystem\PhonebookSystem.Tests\bin\Debug\PhonebookSystem.Tests.pdb
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\PhonebookSystem\PhonebookSystem.Tests\bin\Debug\PowerCollections.dll
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\PhonebookSystem\PhonebookSystem.Tests\bin\Debug\PowerCollections.xml
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\PhonebookSystem\PhonebookSystem.Tests\obj\Debug\PhonebookSystem.Tests.dll
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\PhonebookSystem\PhonebookSystem.Tests\obj\Debug\PhonebookSystem.Tests.pdb
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Exercises\TirePressureMonitoringSystem\PhonebookSystem\PhonebookSystem.Tests\obj\Debug\PhonebookSystem.Tests.csprojResolveAssemblyReference.cache

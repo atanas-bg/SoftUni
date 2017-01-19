@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\AdvancedCSharpExam\AdvancedCSharpExam\SoftuniNumerals\bin\Debug\SoftuniNumerals.exe.config
+C:\Users\User\Desktop\AdvancedCSharpExam\AdvancedCSharpExam\SoftuniNumerals\bin\Debug\SoftuniNumerals.exe
+C:\Users\User\Desktop\AdvancedCSharpExam\AdvancedCSharpExam\SoftuniNumerals\bin\Debug\SoftuniNumerals.pdb
+C:\Users\User\Desktop\AdvancedCSharpExam\AdvancedCSharpExam\SoftuniNumerals\obj\Debug\SoftuniNumerals.exe
+C:\Users\User\Desktop\AdvancedCSharpExam\AdvancedCSharpExam\SoftuniNumerals\obj\Debug\SoftuniNumerals.pdb

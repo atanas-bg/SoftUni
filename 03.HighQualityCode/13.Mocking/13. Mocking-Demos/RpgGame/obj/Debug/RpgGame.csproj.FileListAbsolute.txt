@@ -1,0 +1,6 @@
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\RpgGame\bin\Debug\RpgGame.exe.config
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\RpgGame\bin\Debug\RpgGame.exe
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\RpgGame\bin\Debug\RpgGame.pdb
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\RpgGame\obj\Debug\RpgGame.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\RpgGame\obj\Debug\RpgGame.exe
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\RpgGame\obj\Debug\RpgGame.pdb

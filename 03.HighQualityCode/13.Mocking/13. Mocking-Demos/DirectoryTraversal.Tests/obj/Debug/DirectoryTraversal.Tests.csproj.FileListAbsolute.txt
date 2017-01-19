@@ -1,0 +1,7 @@
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\DirectoryTraversal.Tests\bin\Debug\DirectoryTraversal.Tests.dll
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\DirectoryTraversal.Tests\bin\Debug\DirectoryTraversal.Tests.pdb
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\DirectoryTraversal.Tests\obj\Debug\DirectoryTraversal.Tests.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\DirectoryTraversal.Tests\obj\Debug\DirectoryTraversal.Tests.dll
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\DirectoryTraversal.Tests\obj\Debug\DirectoryTraversal.Tests.pdb
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\DirectoryTraversal.Tests\bin\Debug\DirectoryTraversal.exe
+D:\SoftUni\03.HighQualityCode\13.Mocking\13. Mocking-Demos\DirectoryTraversal.Tests\bin\Debug\DirectoryTraversal.pdb

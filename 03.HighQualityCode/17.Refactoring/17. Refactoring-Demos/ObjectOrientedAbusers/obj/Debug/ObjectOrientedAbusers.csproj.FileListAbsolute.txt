@@ -1,0 +1,6 @@
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\ObjectOrientedAbusers\bin\Debug\ObjectOrientedAbusers.exe.config
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\ObjectOrientedAbusers\bin\Debug\ObjectOrientedAbusers.exe
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\ObjectOrientedAbusers\bin\Debug\ObjectOrientedAbusers.pdb
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\ObjectOrientedAbusers\obj\Debug\ObjectOrientedAbusers.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\ObjectOrientedAbusers\obj\Debug\ObjectOrientedAbusers.exe
+D:\SoftUni\03.HighQualityCode\17.Refactoring\17. Refactoring-Demos\ObjectOrientedAbusers\obj\Debug\ObjectOrientedAbusers.pdb

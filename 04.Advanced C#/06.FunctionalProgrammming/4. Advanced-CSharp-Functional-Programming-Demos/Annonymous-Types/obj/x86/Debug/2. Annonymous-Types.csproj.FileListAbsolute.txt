@@ -1,0 +1,5 @@
+D:\SoftUni\04.Advanced C#\06.FunctionalProgrammming\4. Advanced-CSharp-Functional-Programming-Demos\Annonymous-Types\bin\Debug\Annonymous-Types.exe
+D:\SoftUni\04.Advanced C#\06.FunctionalProgrammming\4. Advanced-CSharp-Functional-Programming-Demos\Annonymous-Types\bin\Debug\Annonymous-Types.pdb
+D:\SoftUni\04.Advanced C#\06.FunctionalProgrammming\4. Advanced-CSharp-Functional-Programming-Demos\Annonymous-Types\obj\x86\Debug\2. Annonymous-Types.csprojResolveAssemblyReference.cache
+D:\SoftUni\04.Advanced C#\06.FunctionalProgrammming\4. Advanced-CSharp-Functional-Programming-Demos\Annonymous-Types\obj\x86\Debug\Annonymous-Types.exe
+D:\SoftUni\04.Advanced C#\06.FunctionalProgrammming\4. Advanced-CSharp-Functional-Programming-Demos\Annonymous-Types\obj\x86\Debug\Annonymous-Types.pdb

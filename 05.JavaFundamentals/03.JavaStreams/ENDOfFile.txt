@@ -1,0 +1,32 @@
+read.Object()
+
+
+
+catch (EOFException exc)
+{
+ in.close();
+ break;
+}
+
+
+
+private static void Load() {
+try {
+    ObjectInputStream objIn = new ObjectInputStream(new FileInputStream("/file.bin"));
+    boolean check=true;
+
+    while (check) {
+
+try{
+object = objIn.readObject();
+libraryFromDisk.add((MediaLibrary) object);
+}catch(EOFException ex){
+check=false;
+}
+
+    }
+    objIn.close();
+} catch(Exception e) {
+    e.printStackTrace();
+}
+}

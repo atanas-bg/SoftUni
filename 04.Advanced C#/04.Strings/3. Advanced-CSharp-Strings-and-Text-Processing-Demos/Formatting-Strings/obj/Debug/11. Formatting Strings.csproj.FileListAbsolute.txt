@@ -1,0 +1,5 @@
+D:\SoftUni\04.Advanced C#\04.Strings\3. Advanced-CSharp-Strings-and-Text-Processing-Demos\Formatting-Strings\bin\Debug\Formatting-Strings.exe
+D:\SoftUni\04.Advanced C#\04.Strings\3. Advanced-CSharp-Strings-and-Text-Processing-Demos\Formatting-Strings\bin\Debug\Formatting-Strings.pdb
+D:\SoftUni\04.Advanced C#\04.Strings\3. Advanced-CSharp-Strings-and-Text-Processing-Demos\Formatting-Strings\obj\Debug\11. Formatting Strings.csprojResolveAssemblyReference.cache
+D:\SoftUni\04.Advanced C#\04.Strings\3. Advanced-CSharp-Strings-and-Text-Processing-Demos\Formatting-Strings\obj\Debug\Formatting-Strings.exe
+D:\SoftUni\04.Advanced C#\04.Strings\3. Advanced-CSharp-Strings-and-Text-Processing-Demos\Formatting-Strings\obj\Debug\Formatting-Strings.pdb

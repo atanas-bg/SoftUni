@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Izpit 13.03.2016\ExamAdvancedCSharp\02.Monopoly\bin\Debug\02.Monopoly.exe.config
+C:\Users\User\Desktop\Izpit 13.03.2016\ExamAdvancedCSharp\02.Monopoly\bin\Debug\02.Monopoly.exe
+C:\Users\User\Desktop\Izpit 13.03.2016\ExamAdvancedCSharp\02.Monopoly\bin\Debug\02.Monopoly.pdb
+C:\Users\User\Desktop\Izpit 13.03.2016\ExamAdvancedCSharp\02.Monopoly\obj\Debug\02.Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Izpit 13.03.2016\ExamAdvancedCSharp\02.Monopoly\obj\Debug\02.Monopoly.exe
+C:\Users\User\Desktop\Izpit 13.03.2016\ExamAdvancedCSharp\02.Monopoly\obj\Debug\02.Monopoly.pdb

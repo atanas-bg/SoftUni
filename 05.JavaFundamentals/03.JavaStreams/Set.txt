@@ -1,0 +1,11 @@
+
+
+In Java 8 I would use:
+
+Set<String> set = Stream.of("a", "b").collect(Collectors.toSet());
+
+This gives you a mutable Set pre-initialized with "a" and "b". Note that while in JDK 8 this does return a HashSet, the specification doesn't guarantee it, and this might change in the future. If you specifically want a HashSet, do this instead:
+
+Set<String> set = Stream.of("a", "b")
+                        .collect(Collectors.toCollection(HashSet::new));
+

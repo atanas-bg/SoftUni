@@ -1,0 +1,5 @@
+D:\SoftUni\04.Advanced C#\04.Strings\3. Advanced-CSharp-Strings-and-Text-Processing-Demos\Parsing-Numbers-and-Dates\bin\Debug\Parsing-Numbers-and-Dates.exe
+D:\SoftUni\04.Advanced C#\04.Strings\3. Advanced-CSharp-Strings-and-Text-Processing-Demos\Parsing-Numbers-and-Dates\bin\Debug\Parsing-Numbers-and-Dates.pdb
+D:\SoftUni\04.Advanced C#\04.Strings\3. Advanced-CSharp-Strings-and-Text-Processing-Demos\Parsing-Numbers-and-Dates\obj\x86\Debug\12. Parsing Numbers and Dates.csprojResolveAssemblyReference.cache
+D:\SoftUni\04.Advanced C#\04.Strings\3. Advanced-CSharp-Strings-and-Text-Processing-Demos\Parsing-Numbers-and-Dates\obj\x86\Debug\Parsing-Numbers-and-Dates.exe
+D:\SoftUni\04.Advanced C#\04.Strings\3. Advanced-CSharp-Strings-and-Text-Processing-Demos\Parsing-Numbers-and-Dates\obj\x86\Debug\Parsing-Numbers-and-Dates.pdb
