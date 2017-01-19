@@ -1,0 +1,4 @@
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\TryFinally\bin\Debug\TryFinally.exe
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\TryFinally\bin\Debug\TryFinally.pdb
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\TryFinally\obj\Debug\TryFinally.exe
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\TryFinally\obj\Debug\TryFinally.pdb

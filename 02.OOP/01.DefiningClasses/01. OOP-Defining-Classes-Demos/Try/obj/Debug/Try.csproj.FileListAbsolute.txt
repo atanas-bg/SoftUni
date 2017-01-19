@@ -1,0 +1,6 @@
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Try\bin\Debug\Try.exe.config
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Try\bin\Debug\Try.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Try\bin\Debug\Try.pdb
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Try\obj\Debug\Try.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Try\obj\Debug\Try.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Try\obj\Debug\Try.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\CofeeSize\bin\Debug\CofeeSize.exe.config
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\CofeeSize\bin\Debug\CofeeSize.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\CofeeSize\bin\Debug\CofeeSize.pdb
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\CofeeSize\obj\Debug\CofeeSize.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\CofeeSize\obj\Debug\CofeeSize.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\CofeeSize\obj\Debug\CofeeSize.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SquareRoot", "EceptionHandlling\01.SquareRoot.csproj", "{32BAF0F1-62A6-47C9-B0CF-91CC71D56A79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.EnterNumbers", "02.EnterNumbers\02.EnterNumbers.csproj", "{9FBC65A3-99F3-46D8-935B-B11C18F6E0D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32BAF0F1-62A6-47C9-B0CF-91CC71D56A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32BAF0F1-62A6-47C9-B0CF-91CC71D56A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32BAF0F1-62A6-47C9-B0CF-91CC71D56A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32BAF0F1-62A6-47C9-B0CF-91CC71D56A79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FBC65A3-99F3-46D8-935B-B11C18F6E0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FBC65A3-99F3-46D8-935B-B11C18F6E0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FBC65A3-99F3-46D8-935B-B11C18F6E0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FBC65A3-99F3-46D8-935B-B11C18F6E0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

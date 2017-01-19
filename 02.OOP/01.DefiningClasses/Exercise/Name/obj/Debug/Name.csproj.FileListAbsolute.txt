@@ -1,0 +1,6 @@
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\Name\bin\Debug\Name.exe.config
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\Name\bin\Debug\Name.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\Name\bin\Debug\Name.pdb
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\Name\obj\Debug\Name.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\Name\obj\Debug\Name.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\Name\obj\Debug\Name.pdb

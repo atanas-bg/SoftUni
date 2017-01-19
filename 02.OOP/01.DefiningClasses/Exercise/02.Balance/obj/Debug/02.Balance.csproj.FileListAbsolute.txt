@@ -1,0 +1,6 @@
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\02.Balance\bin\Debug\02.Balance.exe.config
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\02.Balance\obj\Debug\02.Balance.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\02.Balance\bin\Debug\02.Balance.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\02.Balance\bin\Debug\02.Balance.pdb
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\02.Balance\obj\Debug\02.Balance.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\02.Balance\obj\Debug\02.Balance.pdb

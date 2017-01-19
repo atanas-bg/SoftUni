@@ -1,0 +1,5 @@
+C:\SVN\oop\June-2015\07. OOP-Delegates-and-Events-Demos\CustomLinqExtensions\bin\Debug\CustomLinqExtensions.exe.config
+C:\SVN\oop\June-2015\07. OOP-Delegates-and-Events-Demos\CustomLinqExtensions\obj\Debug\CustomLinqExtensions.exe
+C:\SVN\oop\June-2015\07. OOP-Delegates-and-Events-Demos\CustomLinqExtensions\obj\Debug\CustomLinqExtensions.pdb
+C:\SVN\oop\June-2015\07. OOP-Delegates-and-Events-Demos\CustomLinqExtensions\bin\Debug\CustomLinqExtensions.exe
+C:\SVN\oop\June-2015\07. OOP-Delegates-and-Events-Demos\CustomLinqExtensions\bin\Debug\CustomLinqExtensions.pdb

@@ -1,0 +1,2 @@
+18.12.2015 г. 11:14:01 ч. - Critical - Out of memory
+18.12.2015 г. 11:14:01 ч. - Info - Unused local variable 'name'

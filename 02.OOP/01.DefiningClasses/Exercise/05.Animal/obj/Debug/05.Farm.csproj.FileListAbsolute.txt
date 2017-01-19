@@ -1,0 +1,6 @@
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\05.Animal\obj\Debug\05.Farm.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\05.Animal\bin\Debug\05.Animal.exe.config
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\05.Animal\bin\Debug\05.Animal.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\05.Animal\bin\Debug\05.Animal.pdb
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\05.Animal\obj\Debug\05.Animal.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\05.Animal\obj\Debug\05.Animal.pdb

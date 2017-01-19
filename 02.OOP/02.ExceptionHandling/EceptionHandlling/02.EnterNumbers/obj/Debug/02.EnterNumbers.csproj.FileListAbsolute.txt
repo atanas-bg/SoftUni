@@ -1,0 +1,6 @@
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\EceptionHandlling\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe.config
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\EceptionHandlling\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\EceptionHandlling\02.EnterNumbers\bin\Debug\02.EnterNumbers.pdb
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\EceptionHandlling\02.EnterNumbers\obj\Debug\02.EnterNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\EceptionHandlling\02.EnterNumbers\obj\Debug\02.EnterNumbers.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\EceptionHandlling\02.EnterNumbers\obj\Debug\02.EnterNumbers.pdb

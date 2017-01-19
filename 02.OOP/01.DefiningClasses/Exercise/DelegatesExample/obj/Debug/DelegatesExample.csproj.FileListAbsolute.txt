@@ -1,0 +1,6 @@
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\DelegatesExample\bin\Debug\DelegatesExample.exe.config
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\DelegatesExample\bin\Debug\DelegatesExample.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\DelegatesExample\bin\Debug\DelegatesExample.pdb
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\DelegatesExample\obj\Debug\DelegatesExample.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\DelegatesExample\obj\Debug\DelegatesExample.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\DelegatesExample\obj\Debug\DelegatesExample.pdb

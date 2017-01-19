@@ -1,0 +1,6 @@
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\01.DogBarking\bin\Debug\01.DogBarking.exe.config
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\01.DogBarking\bin\Debug\01.DogBarking.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\01.DogBarking\bin\Debug\01.DogBarking.pdb
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\01.DogBarking\obj\Debug\01.DogBarking.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\01.DogBarking\obj\Debug\01.DogBarking.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\01.DogBarking\obj\Debug\01.DogBarking.pdb

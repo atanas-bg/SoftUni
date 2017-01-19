@@ -1,0 +1,6 @@
+C:\Users\Filip Kolev\Desktop\oop\June-2015\04. Encapsulation-and-Polymorphism-Demos\1.1.Encapsulation-ReferenceTypes\bin\Debug\1.1.Encapsulation-ReferenceTypes.exe.config
+C:\Users\Filip Kolev\Desktop\oop\June-2015\04. Encapsulation-and-Polymorphism-Demos\1.1.Encapsulation-ReferenceTypes\bin\Debug\1.1.Encapsulation-ReferenceTypes.exe
+C:\Users\Filip Kolev\Desktop\oop\June-2015\04. Encapsulation-and-Polymorphism-Demos\1.1.Encapsulation-ReferenceTypes\bin\Debug\1.1.Encapsulation-ReferenceTypes.pdb
+C:\Users\Filip Kolev\Desktop\oop\June-2015\04. Encapsulation-and-Polymorphism-Demos\1.1.Encapsulation-ReferenceTypes\obj\Debug\1.1.Encapsulation-ReferenceTypes.csprojResolveAssemblyReference.cache
+C:\Users\Filip Kolev\Desktop\oop\June-2015\04. Encapsulation-and-Polymorphism-Demos\1.1.Encapsulation-ReferenceTypes\obj\Debug\1.1.Encapsulation-ReferenceTypes.exe
+C:\Users\Filip Kolev\Desktop\oop\June-2015\04. Encapsulation-and-Polymorphism-Demos\1.1.Encapsulation-ReferenceTypes\obj\Debug\1.1.Encapsulation-ReferenceTypes.pdb

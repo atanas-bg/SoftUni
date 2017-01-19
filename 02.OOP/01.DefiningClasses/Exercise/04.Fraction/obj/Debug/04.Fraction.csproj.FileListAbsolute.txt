@@ -1,0 +1,2 @@
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\04.Fraction\bin\Debug\04.Fraction.exe.config
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\04.Fraction\bin\Debug\_04.Fraction.exe.config

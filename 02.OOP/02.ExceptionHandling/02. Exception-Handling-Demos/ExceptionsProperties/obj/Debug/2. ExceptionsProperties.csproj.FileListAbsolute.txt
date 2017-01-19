@@ -1,0 +1,4 @@
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\ExceptionsProperties\bin\Debug\ExceptionsProperties.exe
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\ExceptionsProperties\bin\Debug\ExceptionsProperties.pdb
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\ExceptionsProperties\obj\Debug\ExceptionsProperties.exe
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\ExceptionsProperties\obj\Debug\ExceptionsProperties.pdb

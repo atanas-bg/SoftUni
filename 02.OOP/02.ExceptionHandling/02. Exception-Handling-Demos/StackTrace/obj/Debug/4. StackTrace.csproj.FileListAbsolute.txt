@@ -1,0 +1,6 @@
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\StackTrace\bin\Debug\StackTrace.exe.config
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\StackTrace\bin\Debug\StackTrace.exe
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\StackTrace\bin\Debug\StackTrace.pdb
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\StackTrace\obj\Debug\4. StackTrace.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\StackTrace\obj\Debug\StackTrace.exe
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\StackTrace\obj\Debug\StackTrace.pdb

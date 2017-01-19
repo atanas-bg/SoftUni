@@ -1,0 +1,5 @@
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\ThrowingExceptions\bin\Debug\ThrowingExceptions.exe
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\ThrowingExceptions\bin\Debug\ThrowingExceptions.pdb
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\ThrowingExceptions\obj\Debug\5. Throwing Exceptions.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\ThrowingExceptions\obj\Debug\ThrowingExceptions.exe
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\ThrowingExceptions\obj\Debug\ThrowingExceptions.pdb

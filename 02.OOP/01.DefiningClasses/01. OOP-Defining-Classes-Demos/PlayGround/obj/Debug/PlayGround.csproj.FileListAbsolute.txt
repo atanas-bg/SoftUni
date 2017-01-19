@@ -1,0 +1,6 @@
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\01. OOP-Defining-Classes-Demos\PlayGround\bin\Debug\PlayGround.exe.config
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\01. OOP-Defining-Classes-Demos\PlayGround\bin\Debug\PlayGround.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\01. OOP-Defining-Classes-Demos\PlayGround\bin\Debug\PlayGround.pdb
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\01. OOP-Defining-Classes-Demos\PlayGround\obj\Debug\PlayGround.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\01. OOP-Defining-Classes-Demos\PlayGround\obj\Debug\PlayGround.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\01. OOP-Defining-Classes-Demos\PlayGround\obj\Debug\PlayGround.pdb

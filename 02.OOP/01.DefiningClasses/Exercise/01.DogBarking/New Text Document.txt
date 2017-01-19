@@ -1,0 +1,63 @@
+public class Dog
+{
+	private string name;
+	private string breed;
+
+	public Dog()
+		:this(null, null)
+	{
+	}
+	
+	public Dog(string name, string breed)
+	{
+	  this.Name = name;
+	  this.Breed = breed;	
+	}
+
+	public string Name
+	{
+		get
+		{
+		  return this.name;
+		}
+		set
+		{
+		  this.name = value;
+		}
+	}
+
+	public string Breed
+	{
+		get
+		{
+		  return this.breed;
+		}
+		set
+		{
+		  this.breed = value;
+		}
+	}
+
+	static void Bark()
+	{
+	  Console.Writeline("{0} ({1}) said: Bauuu!", 
+			this.Name ?? "[unnamed dog]", 
+			this.Breed ?? "[unknown breed]");
+	}
+
+}
+
+public class DogActions
+{
+  public static void Main()
+{
+	Dog unnamed = new Dog();
+	Dog sharo = new Dog("Sharo", "Karakachanka");
+	
+	unnamed.Bark();
+	Sharo.Bark();
+
+	unnamed.Breed = "Ulichno";
+	unnamed.Bark();
+}
+}

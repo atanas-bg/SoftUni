@@ -1,0 +1,6 @@
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\EceptionHandlling\EceptionHandlling\bin\Debug\EceptionHandlling.exe.config
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\EceptionHandlling\EceptionHandlling\bin\Debug\EceptionHandlling.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\EceptionHandlling\EceptionHandlling\bin\Debug\EceptionHandlling.pdb
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\EceptionHandlling\EceptionHandlling\obj\Debug\01.SquareRoot.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\EceptionHandlling\EceptionHandlling\obj\Debug\EceptionHandlling.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\EceptionHandlling\EceptionHandlling\obj\Debug\EceptionHandlling.pdb

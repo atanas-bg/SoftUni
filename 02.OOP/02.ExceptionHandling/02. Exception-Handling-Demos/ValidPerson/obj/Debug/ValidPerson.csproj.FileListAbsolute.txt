@@ -1,0 +1,6 @@
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\ValidPerson\bin\Debug\ValidPerson.exe.config
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\ValidPerson\bin\Debug\ValidPerson.exe
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\ValidPerson\bin\Debug\ValidPerson.pdb
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\ValidPerson\obj\Debug\ValidPerson.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\ValidPerson\obj\Debug\ValidPerson.exe
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\ValidPerson\obj\Debug\ValidPerson.pdb

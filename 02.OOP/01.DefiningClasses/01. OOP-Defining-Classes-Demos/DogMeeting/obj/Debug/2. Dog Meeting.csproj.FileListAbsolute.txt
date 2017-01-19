@@ -1,0 +1,7 @@
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\01. OOP-Defining-Classes-Demos\DogMeeting\bin\Debug\DogMeeting.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\01. OOP-Defining-Classes-Demos\DogMeeting\bin\Debug\DogMeeting.pdb
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\01. OOP-Defining-Classes-Demos\DogMeeting\obj\Debug\2. Dog Meeting.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\01. OOP-Defining-Classes-Demos\DogMeeting\obj\Debug\DogMeeting.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\01. OOP-Defining-Classes-Demos\DogMeeting\obj\Debug\DogMeeting.pdb
+D:\SoftUni\02.OOP\02.DefiningClasses\01. OOP-Defining-Classes-Demos\DogMeeting\obj\Debug\DogMeeting.exe
+D:\SoftUni\02.OOP\02.DefiningClasses\01. OOP-Defining-Classes-Demos\DogMeeting\obj\Debug\DogMeeting.pdb

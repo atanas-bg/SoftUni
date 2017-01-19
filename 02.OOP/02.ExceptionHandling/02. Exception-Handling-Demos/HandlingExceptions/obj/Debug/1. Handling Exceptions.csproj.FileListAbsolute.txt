@@ -1,0 +1,5 @@
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\HandlingExceptions\bin\Debug\HandlingExceptions.exe
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\HandlingExceptions\bin\Debug\HandlingExceptions.pdb
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\HandlingExceptions\obj\Debug\1. Handling Exceptions.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\HandlingExceptions\obj\Debug\HandlingExceptions.exe
+D:\SoftUni\02.Fundamental Level\03.ExceptionHandling\02. Exception-Handling-Demos\HandlingExceptions\obj\Debug\HandlingExceptions.pdb

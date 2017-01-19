@@ -1,0 +1,6 @@
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\03.Geometry\bin\Debug\03.Geometry.exe.config
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\03.Geometry\bin\Debug\03.Geometry.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\03.Geometry\bin\Debug\03.Geometry.pdb
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\03.Geometry\obj\Debug\03.Geometry.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\03.Geometry\obj\Debug\03.Geometry.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\03.Geometry\obj\Debug\03.Geometry.pdb

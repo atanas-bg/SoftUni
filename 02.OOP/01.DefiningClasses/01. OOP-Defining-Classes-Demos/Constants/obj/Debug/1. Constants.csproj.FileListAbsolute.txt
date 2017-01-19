@@ -1,0 +1,11 @@
+D:\SoftUni\02.OOP\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Constants\bin\Debug\Constants.exe
+D:\SoftUni\02.OOP\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Constants\bin\Debug\Constants.pdb
+D:\SoftUni\02.OOP\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Constants\bin\Debug\mscorlib.dll
+D:\SoftUni\02.OOP\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Constants\bin\Debug\normidna.nlp
+D:\SoftUni\02.OOP\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Constants\bin\Debug\normnfc.nlp
+D:\SoftUni\02.OOP\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Constants\bin\Debug\normnfd.nlp
+D:\SoftUni\02.OOP\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Constants\bin\Debug\normnfkc.nlp
+D:\SoftUni\02.OOP\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Constants\bin\Debug\normnfkd.nlp
+D:\SoftUni\02.OOP\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Constants\obj\Debug\1. Constants.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.OOP\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Constants\obj\Debug\Constants.exe
+D:\SoftUni\02.OOP\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Constants\obj\Debug\Constants.pdb

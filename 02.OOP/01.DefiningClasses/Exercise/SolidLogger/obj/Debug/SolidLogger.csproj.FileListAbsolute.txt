@@ -1,0 +1,6 @@
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\SolidLogger\bin\Debug\SolidLogger.exe.config
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\SolidLogger\bin\Debug\SolidLogger.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\SolidLogger\bin\Debug\SolidLogger.pdb
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\SolidLogger\obj\Debug\SolidLogger.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\SolidLogger\obj\Debug\SolidLogger.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\SolidLogger\obj\Debug\SolidLogger.pdb

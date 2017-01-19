@@ -1,0 +1,5 @@
+D:\SoftUni\02.OOP\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Defining-Properties\bin\Debug\Properties.exe
+D:\SoftUni\02.OOP\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Defining-Properties\bin\Debug\Properties.pdb
+D:\SoftUni\02.OOP\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Defining-Properties\obj\Debug\5. Defining Properties.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.OOP\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Defining-Properties\obj\Debug\Properties.exe
+D:\SoftUni\02.OOP\02.DefiningClasses\01. OOP-Defining-Classes-Demos\Defining-Properties\obj\Debug\Properties.pdb

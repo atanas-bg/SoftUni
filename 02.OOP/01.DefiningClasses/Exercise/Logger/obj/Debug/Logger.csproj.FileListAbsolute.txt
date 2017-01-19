@@ -1,0 +1,6 @@
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\Logger\bin\Debug\Logger.exe.config
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\Logger\bin\Debug\Logger.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\Logger\bin\Debug\Logger.pdb
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\Logger\obj\Debug\Logger.exe
+D:\SoftUni\02.Fundamental Level\02.DefiningClasses\Exercise\Logger\obj\Debug\Logger.pdb
