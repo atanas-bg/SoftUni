@@ -1,0 +1,7 @@
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\ReadingCharactrers\bin\Debug\ReadingCharactrers.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\ReadingCharactrers\bin\Debug\ReadingCharactrers.pdb
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\ReadingCharactrers\obj\Debug\2. ReadingCharacters.csprojResolveAssemblyReference.cache
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\ReadingCharactrers\obj\Debug\ReadingCharactrers.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\ReadingCharactrers\obj\Debug\ReadingCharactrers.pdb
+D:\SoftUni\4. Console-Input-Output-Demos\ReadingCharactrers\obj\Debug\ReadingCharactrers.exe
+D:\SoftUni\4. Console-Input-Output-Demos\ReadingCharactrers\obj\Debug\ReadingCharactrers.pdb

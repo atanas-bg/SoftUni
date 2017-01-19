@@ -1,0 +1,5 @@
+D:\SoftUni\2. Introduction-to-Programming-Demos\SumOfOddNUmbers\bin\Debug\SumOfOddNUmbers.exe.config
+D:\SoftUni\2. Introduction-to-Programming-Demos\SumOfOddNUmbers\bin\Debug\SumOfOddNUmbers.exe
+D:\SoftUni\2. Introduction-to-Programming-Demos\SumOfOddNUmbers\bin\Debug\SumOfOddNUmbers.pdb
+D:\SoftUni\2. Introduction-to-Programming-Demos\SumOfOddNUmbers\obj\Debug\SumOfOddNUmbers.exe
+D:\SoftUni\2. Introduction-to-Programming-Demos\SumOfOddNUmbers\obj\Debug\SumOfOddNUmbers.pdb

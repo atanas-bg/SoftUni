@@ -1,0 +1,6 @@
+D:\SoftUni\2. Introduction-to-Programming-Demos\FindPrimeNumber\bin\Debug\FindPrimeNumber.exe.config
+D:\SoftUni\2. Introduction-to-Programming-Demos\FindPrimeNumber\bin\Debug\FindPrimeNumber.exe
+D:\SoftUni\2. Introduction-to-Programming-Demos\FindPrimeNumber\bin\Debug\FindPrimeNumber.pdb
+D:\SoftUni\2. Introduction-to-Programming-Demos\FindPrimeNumber\obj\Debug\FindPrimeNumber.csprojResolveAssemblyReference.cache
+D:\SoftUni\2. Introduction-to-Programming-Demos\FindPrimeNumber\obj\Debug\FindPrimeNumber.exe
+D:\SoftUni\2. Introduction-to-Programming-Demos\FindPrimeNumber\obj\Debug\FindPrimeNumber.pdb

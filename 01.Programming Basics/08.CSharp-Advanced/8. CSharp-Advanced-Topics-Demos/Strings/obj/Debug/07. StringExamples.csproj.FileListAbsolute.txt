@@ -1,0 +1,5 @@
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\Strings\bin\Debug\Strings.exe
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\Strings\bin\Debug\Strings.pdb
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\Strings\obj\Debug\Strings.exe
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\Strings\obj\Debug\Strings.pdb
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\Strings\obj\Debug\07. StringExamples.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\ReadingKeys\bin\Debug\ReadingKeys.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\ReadingKeys\bin\Debug\ReadingKeys.pdb
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\ReadingKeys\obj\x86\Debug\ReadingKeys.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\ReadingKeys\obj\x86\Debug\ReadingKeys.pdb
+D:\SoftUni\4. Console-Input-Output-Demos\ReadingKeys\obj\x86\Debug\ReadingKeys.exe
+D:\SoftUni\4. Console-Input-Output-Demos\ReadingKeys\obj\x86\Debug\ReadingKeys.pdb

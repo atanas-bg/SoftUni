@@ -1,0 +1,5 @@
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\JustSnake\bin\Debug\JustSnake.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\JustSnake\bin\Debug\JustSnake.pdb
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\JustSnake\obj\x86\Debug\JustSnake.csprojResolveAssemblyReference.cache
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\JustSnake\obj\x86\Debug\JustSnake.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\JustSnake\obj\x86\Debug\JustSnake.pdb

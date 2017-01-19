@@ -1,0 +1,6 @@
+D:\SoftUni\2. Introduction-to-Programming-Demos\BiggerNumber\bin\Debug\BiggerNumber.exe.config
+D:\SoftUni\2. Introduction-to-Programming-Demos\BiggerNumber\bin\Debug\BiggerNumber.exe
+D:\SoftUni\2. Introduction-to-Programming-Demos\BiggerNumber\bin\Debug\BiggerNumber.pdb
+D:\SoftUni\2. Introduction-to-Programming-Demos\BiggerNumber\obj\Debug\BiggerNumber.csprojResolveAssemblyReference.cache
+D:\SoftUni\2. Introduction-to-Programming-Demos\BiggerNumber\obj\Debug\BiggerNumber.exe
+D:\SoftUni\2. Introduction-to-Programming-Demos\BiggerNumber\obj\Debug\BiggerNumber.pdb

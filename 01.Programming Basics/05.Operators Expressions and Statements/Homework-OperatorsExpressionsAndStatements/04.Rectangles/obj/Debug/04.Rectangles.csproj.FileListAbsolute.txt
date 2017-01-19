@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+c:\users\user\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\04.Rectangles\bin\Debug\04.Rectangles.exe
+c:\users\user\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\04.Rectangles\bin\Debug\04.Rectangles.pdb
+c:\users\user\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\04.Rectangles\obj\Debug\04.Rectangles.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\04.Rectangles\obj\Debug\04.Rectangles.exe
+c:\users\user\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\04.Rectangles\obj\Debug\04.Rectangles.pdb

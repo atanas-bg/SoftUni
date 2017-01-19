@@ -1,0 +1,5 @@
+D:\SoftUni\2. Introduction-to-Programming-Demos\porizvedenie2\bin\Debug\porizvedenie2.exe.config
+D:\SoftUni\2. Introduction-to-Programming-Demos\porizvedenie2\bin\Debug\porizvedenie2.exe
+D:\SoftUni\2. Introduction-to-Programming-Demos\porizvedenie2\bin\Debug\porizvedenie2.pdb
+D:\SoftUni\2. Introduction-to-Programming-Demos\porizvedenie2\obj\Debug\porizvedenie2.exe
+D:\SoftUni\2. Introduction-to-Programming-Demos\porizvedenie2\obj\Debug\porizvedenie2.pdb

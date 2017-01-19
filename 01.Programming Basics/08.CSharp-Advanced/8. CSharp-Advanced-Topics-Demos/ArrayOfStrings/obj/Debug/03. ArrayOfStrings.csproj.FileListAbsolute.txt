@@ -1,0 +1,4 @@
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\ArrayOfStrings\bin\Debug\ArrayOfStrings.exe
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\ArrayOfStrings\bin\Debug\ArrayOfStrings.pdb
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\ArrayOfStrings\obj\Debug\ArrayOfStrings.exe
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\ArrayOfStrings\obj\Debug\ArrayOfStrings.pdb

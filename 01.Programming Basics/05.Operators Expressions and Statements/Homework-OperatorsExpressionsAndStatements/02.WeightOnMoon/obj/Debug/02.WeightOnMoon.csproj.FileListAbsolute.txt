@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\02.WeightOnMoon\bin\Debug\02.WeightOnMoon.exe.config
+c:\users\user\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\02.WeightOnMoon\bin\Debug\02.WeightOnMoon.exe
+c:\users\user\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\02.WeightOnMoon\bin\Debug\02.WeightOnMoon.pdb
+c:\users\user\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\02.WeightOnMoon\obj\Debug\02.WeightOnMoon.exe
+c:\users\user\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\02.WeightOnMoon\obj\Debug\02.WeightOnMoon.pdb

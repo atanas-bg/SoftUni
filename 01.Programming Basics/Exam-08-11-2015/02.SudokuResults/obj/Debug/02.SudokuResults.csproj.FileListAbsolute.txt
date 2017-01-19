@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Exam-08-11-2015\02.SudokuResults\bin\Debug\02.SudokuResults.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Exam-08-11-2015\02.SudokuResults\bin\Debug\02.SudokuResults.exe
+c:\users\user\documents\visual studio 2015\Projects\Exam-08-11-2015\02.SudokuResults\bin\Debug\02.SudokuResults.pdb
+c:\users\user\documents\visual studio 2015\Projects\Exam-08-11-2015\02.SudokuResults\obj\Debug\02.SudokuResults.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Exam-08-11-2015\02.SudokuResults\obj\Debug\02.SudokuResults.exe
+c:\users\user\documents\visual studio 2015\Projects\Exam-08-11-2015\02.SudokuResults\obj\Debug\02.SudokuResults.pdb
+D:\SoftUni\01.Programming Basics\Exam-08-11-2015\02.SudokuResults\bin\Debug\02.SudokuResults.exe.config
+D:\SoftUni\01.Programming Basics\Exam-08-11-2015\02.SudokuResults\obj\Debug\02.SudokuResults.exe
+D:\SoftUni\01.Programming Basics\Exam-08-11-2015\02.SudokuResults\obj\Debug\02.SudokuResults.pdb

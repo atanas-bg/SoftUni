@@ -1,0 +1,7 @@
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\PrintingToConsole\bin\Debug\PrintingToConsole.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\PrintingToConsole\bin\Debug\PrintingToConsole.pdb
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\PrintingToConsole\obj\Debug\1. PrintingToConsole.csprojResolveAssemblyReference.cache
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\PrintingToConsole\obj\Debug\PrintingToConsole.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\PrintingToConsole\obj\Debug\PrintingToConsole.pdb
+D:\SoftUni\4. Console-Input-Output-Demos\PrintingToConsole\obj\Debug\PrintingToConsole.exe
+D:\SoftUni\4. Console-Input-Output-Demos\PrintingToConsole\obj\Debug\PrintingToConsole.pdb

@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\ConditionalStatements\07.Sort3NumberWithNestedIFs\bin\Debug\07.Sort3NumberWithNestedIFs.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ConditionalStatements\07.Sort3NumberWithNestedIFs\bin\Debug\07.Sort3NumberWithNestedIFs.exe
+c:\users\user\documents\visual studio 2015\Projects\ConditionalStatements\07.Sort3NumberWithNestedIFs\bin\Debug\07.Sort3NumberWithNestedIFs.pdb
+c:\users\user\documents\visual studio 2015\Projects\ConditionalStatements\07.Sort3NumberWithNestedIFs\obj\Debug\07.Sort3NumberWithNestedIFs.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ConditionalStatements\07.Sort3NumberWithNestedIFs\obj\Debug\07.Sort3NumberWithNestedIFs.exe
+c:\users\user\documents\visual studio 2015\Projects\ConditionalStatements\07.Sort3NumberWithNestedIFs\obj\Debug\07.Sort3NumberWithNestedIFs.pdb

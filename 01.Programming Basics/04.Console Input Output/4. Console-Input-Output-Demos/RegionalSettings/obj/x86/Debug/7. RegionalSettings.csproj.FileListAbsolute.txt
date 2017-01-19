@@ -1,0 +1,7 @@
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\RegionalSettings\bin\Debug\RegionalSettings.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\RegionalSettings\bin\Debug\RegionalSettings.pdb
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\RegionalSettings\obj\x86\Debug\7. RegionalSettings.csprojResolveAssemblyReference.cache
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\RegionalSettings\obj\x86\Debug\RegionalSettings.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\RegionalSettings\obj\x86\Debug\RegionalSettings.pdb
+D:\SoftUni\4. Console-Input-Output-Demos\RegionalSettings\obj\x86\Debug\RegionalSettings.exe
+D:\SoftUni\4. Console-Input-Output-Demos\RegionalSettings\obj\x86\Debug\RegionalSettings.pdb

@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Loops\10.OddOrEvenProduct\bin\Debug\10.OddOrEvenProduct.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Loops\10.OddOrEvenProduct\bin\Debug\10.OddOrEvenProduct.exe
+c:\users\user\documents\visual studio 2015\Projects\Loops\10.OddOrEvenProduct\bin\Debug\10.OddOrEvenProduct.pdb
+c:\users\user\documents\visual studio 2015\Projects\Loops\10.OddOrEvenProduct\obj\Debug\10.OddOrEvenProduct.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Loops\10.OddOrEvenProduct\obj\Debug\10.OddOrEvenProduct.exe
+c:\users\user\documents\visual studio 2015\Projects\Loops\10.OddOrEvenProduct\obj\Debug\10.OddOrEvenProduct.pdb

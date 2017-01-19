@@ -1,0 +1,5 @@
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\ArrayOfIntegers\bin\Debug\ArrayOfIntegers.exe
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\ArrayOfIntegers\bin\Debug\ArrayOfIntegers.pdb
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\ArrayOfIntegers\obj\Debug\02. ArrayOfIntegers.csprojResolveAssemblyReference.cache
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\ArrayOfIntegers\obj\Debug\ArrayOfIntegers.exe
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\ArrayOfIntegers\obj\Debug\ArrayOfIntegers.pdb

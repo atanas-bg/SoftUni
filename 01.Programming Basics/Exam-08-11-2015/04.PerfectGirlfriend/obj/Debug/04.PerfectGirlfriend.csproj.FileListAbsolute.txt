@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Exam-08-11-2015\04.PerfectGirlfriend\bin\Debug\04.PerfectGirlfriend.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Exam-08-11-2015\04.PerfectGirlfriend\bin\Debug\04.PerfectGirlfriend.exe
+c:\users\user\documents\visual studio 2015\Projects\Exam-08-11-2015\04.PerfectGirlfriend\bin\Debug\04.PerfectGirlfriend.pdb
+c:\users\user\documents\visual studio 2015\Projects\Exam-08-11-2015\04.PerfectGirlfriend\obj\Debug\04.PerfectGirlfriend.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Exam-08-11-2015\04.PerfectGirlfriend\obj\Debug\04.PerfectGirlfriend.exe
+c:\users\user\documents\visual studio 2015\Projects\Exam-08-11-2015\04.PerfectGirlfriend\obj\Debug\04.PerfectGirlfriend.pdb

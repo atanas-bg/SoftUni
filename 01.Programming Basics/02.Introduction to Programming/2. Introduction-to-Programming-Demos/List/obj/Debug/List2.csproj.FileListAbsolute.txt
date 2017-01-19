@@ -1,0 +1,5 @@
+D:\SoftUni\2. Introduction-to-Programming-Demos\List\bin\Debug\List.exe.config
+D:\SoftUni\2. Introduction-to-Programming-Demos\List\bin\Debug\List.exe
+D:\SoftUni\2. Introduction-to-Programming-Demos\List\obj\Debug\List.exe
+D:\SoftUni\2. Introduction-to-Programming-Demos\List\obj\Debug\List.pdb
+D:\SoftUni\2. Introduction-to-Programming-Demos\List\obj\Debug\List2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\SoftUni\2. Introduction-to-Programming-Demos\Factorial\bin\Debug\Factorial.exe.config
+D:\SoftUni\2. Introduction-to-Programming-Demos\Factorial\bin\Debug\Factorial.exe
+D:\SoftUni\2. Introduction-to-Programming-Demos\Factorial\bin\Debug\Factorial.pdb
+D:\SoftUni\2. Introduction-to-Programming-Demos\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+D:\SoftUni\2. Introduction-to-Programming-Demos\Factorial\obj\Debug\Factorial.exe
+D:\SoftUni\2. Introduction-to-Programming-Demos\Factorial\obj\Debug\Factorial.pdb

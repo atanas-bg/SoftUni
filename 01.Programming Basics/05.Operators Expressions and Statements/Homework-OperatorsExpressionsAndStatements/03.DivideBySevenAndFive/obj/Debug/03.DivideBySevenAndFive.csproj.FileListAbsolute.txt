@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.exe.config
+c:\users\user\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.exe
+c:\users\user\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.pdb
+c:\users\user\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.exe
+c:\users\user\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.pdb

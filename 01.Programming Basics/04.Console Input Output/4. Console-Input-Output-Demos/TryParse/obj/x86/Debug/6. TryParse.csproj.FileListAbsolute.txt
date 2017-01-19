@@ -1,0 +1,7 @@
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\TryParse\bin\Debug\TryParse.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\TryParse\bin\Debug\TryParse.pdb
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\TryParse\obj\x86\Debug\6. TryParse.csprojResolveAssemblyReference.cache
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\TryParse\obj\x86\Debug\TryParse.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\TryParse\obj\x86\Debug\TryParse.pdb
+D:\SoftUni\4. Console-Input-Output-Demos\TryParse\obj\x86\Debug\TryParse.exe
+D:\SoftUni\4. Console-Input-Output-Demos\TryParse\obj\x86\Debug\TryParse.pdb

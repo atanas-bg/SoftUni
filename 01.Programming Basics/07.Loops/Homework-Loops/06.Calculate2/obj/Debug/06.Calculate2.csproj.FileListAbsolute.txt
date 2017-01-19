@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Loops\06.Calculate2\bin\Debug\06.Calculate2.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Loops\06.Calculate2\bin\Debug\06.Calculate2.exe
+c:\users\user\documents\visual studio 2015\Projects\Loops\06.Calculate2\bin\Debug\06.Calculate2.pdb
+c:\users\user\documents\visual studio 2015\Projects\Loops\06.Calculate2\obj\Debug\06.Calculate2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Loops\06.Calculate2\obj\Debug\06.Calculate2.exe
+c:\users\user\documents\visual studio 2015\Projects\Loops\06.Calculate2\obj\Debug\06.Calculate2.pdb

@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Loops\11.RandomNumbers\bin\Debug\11.RandomNumbers.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Loops\11.RandomNumbers\bin\Debug\11.RandomNumbers.exe
+c:\users\user\documents\visual studio 2015\Projects\Loops\11.RandomNumbers\bin\Debug\11.RandomNumbers.pdb
+c:\users\user\documents\visual studio 2015\Projects\Loops\11.RandomNumbers\obj\Debug\11.RandomNumbers.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Loops\11.RandomNumbers\obj\Debug\11.RandomNumbers.exe
+c:\users\user\documents\visual studio 2015\Projects\Loops\11.RandomNumbers\obj\Debug\11.RandomNumbers.pdb

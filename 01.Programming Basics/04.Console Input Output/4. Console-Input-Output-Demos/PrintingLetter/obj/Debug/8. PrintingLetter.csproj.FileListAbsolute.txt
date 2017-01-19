@@ -1,0 +1,7 @@
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\PrintingLetter\bin\Debug\PrintingLetter.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\PrintingLetter\bin\Debug\PrintingLetter.pdb
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\PrintingLetter\obj\Debug\8. PrintingLetter.csprojResolveAssemblyReference.cache
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\PrintingLetter\obj\Debug\PrintingLetter.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\PrintingLetter\obj\Debug\PrintingLetter.pdb
+D:\SoftUni\4. Console-Input-Output-Demos\PrintingLetter\obj\Debug\PrintingLetter.exe
+D:\SoftUni\4. Console-Input-Output-Demos\PrintingLetter\obj\Debug\PrintingLetter.pdb

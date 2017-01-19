@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Console-Input-Output\NumberComparer\bin\Debug\NumberComparer.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Console-Input-Output\NumberComparer\bin\Debug\NumberComparer.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Console-Input-Output\NumberComparer\bin\Debug\NumberComparer.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Console-Input-Output\NumberComparer\obj\Debug\NumberComparer.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Console-Input-Output\NumberComparer\obj\Debug\NumberComparer.pdb

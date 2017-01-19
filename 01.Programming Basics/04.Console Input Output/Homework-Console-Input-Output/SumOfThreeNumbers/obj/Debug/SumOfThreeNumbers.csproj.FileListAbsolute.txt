@@ -1,0 +1,2 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Solution1\SumOfThreeNumbers\bin\Debug\SumOfThreeNumbers.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Console-Input-Output\SumOfThreeNumbers\bin\Debug\SumOfThreeNumbers.exe.config

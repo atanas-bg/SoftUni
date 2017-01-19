@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\CSharpAdvancedTopics\01.DifferenceBetweenDates\bin\Debug\01.DifferenceBetweenDates.exe.config
+c:\users\user\documents\visual studio 2015\Projects\CSharpAdvancedTopics\01.DifferenceBetweenDates\bin\Debug\01.DifferenceBetweenDates.exe
+c:\users\user\documents\visual studio 2015\Projects\CSharpAdvancedTopics\01.DifferenceBetweenDates\bin\Debug\01.DifferenceBetweenDates.pdb
+c:\users\user\documents\visual studio 2015\Projects\CSharpAdvancedTopics\01.DifferenceBetweenDates\obj\Debug\01.DifferenceBetweenDates.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\CSharpAdvancedTopics\01.DifferenceBetweenDates\obj\Debug\01.DifferenceBetweenDates.exe
+c:\users\user\documents\visual studio 2015\Projects\CSharpAdvancedTopics\01.DifferenceBetweenDates\obj\Debug\01.DifferenceBetweenDates.pdb

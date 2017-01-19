@@ -1,0 +1,5 @@
+D:\SoftUni\2. Introduction-to-Programming-Demos\5thTask\bin\Debug\5thTask.exe.config
+D:\SoftUni\2. Introduction-to-Programming-Demos\5thTask\bin\Debug\5thTask.exe
+D:\SoftUni\2. Introduction-to-Programming-Demos\5thTask\bin\Debug\5thTask.pdb
+D:\SoftUni\2. Introduction-to-Programming-Demos\5thTask\obj\Debug\5thTask.exe
+D:\SoftUni\2. Introduction-to-Programming-Demos\5thTask\obj\Debug\5thTask.pdb

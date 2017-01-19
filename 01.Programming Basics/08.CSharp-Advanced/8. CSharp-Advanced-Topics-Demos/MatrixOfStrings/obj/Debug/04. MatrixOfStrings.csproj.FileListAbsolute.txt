@@ -1,0 +1,4 @@
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\MatrixOfStrings\bin\Debug\MatrixOfStrings.exe
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\MatrixOfStrings\bin\Debug\MatrixOfStrings.pdb
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\MatrixOfStrings\obj\Debug\MatrixOfStrings.exe
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\MatrixOfStrings\obj\Debug\MatrixOfStrings.pdb

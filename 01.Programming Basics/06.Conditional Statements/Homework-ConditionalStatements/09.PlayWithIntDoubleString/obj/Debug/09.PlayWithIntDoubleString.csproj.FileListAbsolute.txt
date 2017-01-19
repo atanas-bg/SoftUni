@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\ConditionalStatements\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ConditionalStatements\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.exe
+c:\users\user\documents\visual studio 2015\Projects\ConditionalStatements\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.pdb
+c:\users\user\documents\visual studio 2015\Projects\ConditionalStatements\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.exe
+c:\users\user\documents\visual studio 2015\Projects\ConditionalStatements\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.pdb

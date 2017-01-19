@@ -1,0 +1,5 @@
+D:\SoftUni\2. Introduction-to-Programming-Demos\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\SoftUni\2. Introduction-to-Programming-Demos\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\SoftUni\2. Introduction-to-Programming-Demos\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\SoftUni\2. Introduction-to-Programming-Demos\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\SoftUni\2. Introduction-to-Programming-Demos\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

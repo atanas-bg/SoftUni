@@ -1,0 +1,4 @@
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\ListOfIntegers\bin\Debug\ListOfIntegers.exe
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\ListOfIntegers\bin\Debug\ListOfIntegers.pdb
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\ListOfIntegers\obj\Debug\ListOfIntegers.exe
+D:\SoftUni\08.CSharp za naprednali\8. CSharp-Advanced-Topics-Demos\ListOfIntegers\obj\Debug\ListOfIntegers.pdb

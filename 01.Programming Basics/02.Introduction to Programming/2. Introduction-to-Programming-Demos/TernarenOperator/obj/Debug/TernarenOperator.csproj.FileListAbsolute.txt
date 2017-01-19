@@ -1,0 +1,5 @@
+D:\SoftUni\2. Introduction-to-Programming-Demos\TernarenOperator\bin\Debug\TernarenOperator.exe.config
+D:\SoftUni\2. Introduction-to-Programming-Demos\TernarenOperator\bin\Debug\TernarenOperator.exe
+D:\SoftUni\2. Introduction-to-Programming-Demos\TernarenOperator\bin\Debug\TernarenOperator.pdb
+D:\SoftUni\2. Introduction-to-Programming-Demos\TernarenOperator\obj\Debug\TernarenOperator.exe
+D:\SoftUni\2. Introduction-to-Programming-Demos\TernarenOperator\obj\Debug\TernarenOperator.pdb

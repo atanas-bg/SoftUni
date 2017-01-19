@@ -1,0 +1,5 @@
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\CalculatingArea\bin\Debug\CalculatingArea.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\CalculatingArea\bin\Debug\CalculatingArea.pdb
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\CalculatingArea\obj\Debug\9. CalculatingArea.csprojResolveAssemblyReference.cache
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\CalculatingArea\obj\Debug\CalculatingArea.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\CalculatingArea\obj\Debug\CalculatingArea.pdb
