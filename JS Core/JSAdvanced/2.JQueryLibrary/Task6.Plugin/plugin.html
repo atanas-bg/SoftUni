@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../../jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<style>
+    .item { border: 1px solid #DDD }
+    .big { font-size: 1.5em; font-weight: bold; }
+</style>
+<span class="item">First</span>
+<span class="item">Second</span>
+<span class="item">Third</span>
+
+<script>
+    (function($) {
+        $.fn.highlight = function(className) {
+            $(this).on("mouseover", function() {
+                $(this).addClass(className);
+            });
+            $(this).on("mouseout", function() {
+                $(this).removeClass(className);
+            });
+        }
+    }(jQuery));
+</script>
+
+<script>$(".item").highlight('big');
+</script>
+
+</body>
+</html>

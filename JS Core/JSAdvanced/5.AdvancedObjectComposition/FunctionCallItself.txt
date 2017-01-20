@@ -1,0 +1,23 @@
+There are 2-3 ways. One is, as you say, is to use arguments.callee. It might be the only way if you're dealing with an anonymous function that's not stored assigned to a variable somewhere (that you know of):
+
+(function() {
+    return arguments.callee;
+})()()()().... ;
+
+The 2nd is to use the function's name
+
+function namedFunc() {
+    return namedFunc;
+}
+namedFunc()()()().... ;
+
+And the last one is to use an anonymous function assigned to a variable, but you have to know the variable, so in that case I see no reason, why you can't just give the function a name, and use the method above
+
+var storedFunc = function() {
+    return storedFunc;
+};
+storedFunc()()()().... ;
+
+They're all functionally identical, but callee is the simplest.
+
+Edit: And I agree with SLaks; I can't recommend it either

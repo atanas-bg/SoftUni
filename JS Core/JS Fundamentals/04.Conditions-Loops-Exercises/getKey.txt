@@ -1,0 +1,28 @@
+
+
+You have (at least) four options:
+
+    In many cases, you can use the curiously-powerful || operator:
+
+    x = obj.key || "default";
+
+    That means: Set x to obj.key unless obj.key is undefined, 0, false, "", or null. So you wouldn't want to use it if obj.key may validly be 0 or any other of those values.
+
+
+    For situations where || isn't applicable, there's the in operator:
+
+    x = "key" in obj ? obj.key : "default";
+
+    in tells us whether an object has a property with the given key. Note the key is a string. So if obj.key may be validly 0, you'd want to use this rather than #1 above.
+
+    in will find a key if it's in the object or the object's prototype chain (e.g., all of the places you'd get it from if you retrieve the property). If you just want to check the object itself and not its prototype chain, you can use hasOwnProperty:
+
+    x = obj.hasOwnProperty("key") ? obj.key : "default";
+
+
+    Specifically check for undefined:
+
+    x = typeof obj.key !== "undefined" ? obj.key : "default";
+
+    That will use the default if obj doesn't have that property or if it has the property, but the property's value is undefined.
+

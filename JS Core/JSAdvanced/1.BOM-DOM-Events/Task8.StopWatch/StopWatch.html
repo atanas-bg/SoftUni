@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Stop Watch</title>
+</head>
+<body>
+<div id="time" style="width:20%; margin: 10px auto; border:3px solid blue; text-align:center; font-size:2em;"></div>
+<button id="startBtn">Start</button>
+<button id="stopBtn" disabled="true">Stop</button>
+<script>
+    window.onload = function() { stopwatch(); };
+    function stopwatch() {
+        let time, intervalID;
+        let startBtn = document.getElementById('startBtn');
+        let stopBtn = document.getElementById('stopBtn');
+        startBtn.addEventListener('click', function() {
+            time = -1;
+            incrementTime();
+            intervalID = setInterval(
+                    incrementTime, 1000);
+            startBtn.disabled = true;
+            stopBtn.disabled = false;
+        });
+
+        stopBtn.addEventListener('click', function() {
+            clearInterval(intervalID);
+            startBtn.disabled = false;
+            stopBtn.disabled = true;
+        });
+
+        function incrementTime() {
+            time++;
+            document.getElementById('time').textContent =
+                    ("0" + Math.trunc(time / 60)).slice(-2) +
+                    ':' + ("0" + (time % 60)).slice(-2);
+        }
+    }
+    
+    
+//    function stopwatch() {
+//        let seconds = 0;
+//        let htmlMinutes = 0;
+//        let htmlSeconds = 0;
+//        let interval;
+//        let startBtn = document.getElementById('startBtn');
+//        let stopBtn = document.getElementById('stopBtn');
+//
+//        document.getElementById('time').innerText = formatTo2Symbols(htmlMinutes) + ':' + formatTo2Symbols(htmlSeconds);
+//
+//        startBtn.onclick = function (){
+//            startBtn.setAttribute('disabled', 'true');
+//            stopBtn.removeAttribute('disabled');
+//            seconds = -1;
+//            interval = setInterval(function(){
+//                seconds += 1;
+//
+//                htmlSeconds = seconds % 60;
+//                htmlMinutes = (seconds - htmlSeconds) / 60;
+//
+////                console.log(seconds, htmlSeconds, htmlMinutes);
+//                document.getElementById('time').innerText = formatTo2Symbols(htmlMinutes) + ':' + formatTo2Symbols(htmlSeconds);
+//            }, 1000);
+//        };
+//        stopBtn.onclick = function () {
+//            stopBtn.setAttribute('disabled', 'true');
+//            startBtn.removeAttribute('disabled');
+//            clearInterval(interval);
+//        };
+//        function formatTo2Symbols(input) {
+//            if(input.toString().length < 2) {
+//                return '0'+input;
+//            }
+//            return input;
+//        }
+//    }
+
+
+</script>
+</body>
+</html>

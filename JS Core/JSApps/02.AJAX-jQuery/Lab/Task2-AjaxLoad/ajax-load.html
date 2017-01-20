@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Example</title>
+    <script src="../../../7.JS-Apps-SPA-with-AJAX-REST-Kinvey/BooksApp/scripts/jquery-3.1.1.min.js"></script>
+    <!--<script src="ajax-load.js"></script>-->
+</head>
+<body>
+<div id="text">
+    <h1>Welcome</h1>
+    <button onclick="load()">Load</button>
+</div>
+<script>
+    $(document).ajaxError(function(event, req, settings) {
+        $('#text').text(`Error loading data: ${req.status} (${req.statusText})`);
+    });
+    function load() {
+        $('#text').load("http://dir.bg");
+    }
+</script>
+</body>
+</html>

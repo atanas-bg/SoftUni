@@ -1,0 +1,25 @@
+Select a single element
+
+let header = document.getElementById('header');
+let nav = document.querySelector('#main-nav');
+let root = document.documentElement;
+
+
+Select a collection of elements
+
+let inputs = document.getElementsByTagName('li');
+let towns = document.getElementsByName('towns[]');
+let header = document.querySelectorAll('#nav li');
+let allLinks = document.links;
+
+
+<div id="first" class="big">First <b>DIV</b></div>
+
+
+let div = document.getElementById('first');
+console.log(div.id); // first
+console.log(div.tagName); // DIV
+console.log(div.className); // big
+console.log(div.textContent); // First DIV
+console.log(div.innerHTML); // First <b>DIV</b>
+console.log(div.outerHTML); // <div id="first" class="big">First <b>DIV</b></div>
