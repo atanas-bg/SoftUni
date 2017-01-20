@@ -1,0 +1,30 @@
+{'main': {
+    'pressure': 1024,
+    'humidity': 72,
+    'temp': 262.15,
+    'temp_max': 262.15,
+    'temp_min': 262.15},
+    'sys': {
+        'message': 0.0463,
+        'type': 1, 'id': 5445,
+        'sunset': 1484059915,
+        'country': 'BG',
+        'sunrise': 1484026852},
+    'id': 726418,
+    'visibility': 10000,
+    'dt': 1484004600,
+    'clouds': {'all': 0},
+    'weather': [{
+        'icon': '01n',
+        'main': 'Clear',
+        'id': 800,
+        'description': 'clear sky'}],
+    'coord': {
+        'lat': 43.57,
+        'lon': 27.83},
+    'wind': {
+        'speed': 5.1,
+        'deg': 340},
+    'base': 'stations',
+    'name': 'Dobrich',
+    'cod': 200}
