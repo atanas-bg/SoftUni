@@ -1,0 +1,43 @@
+#formTitle {
+    border: 4px;
+    border-color: black;
+    background-color: gainsboro;
+    text-align: center;
+    font-weight: bold;
+}
+
+fieldset {
+    width: auto;
+}
+
+input, label {
+    display: block;
+}
+
+/*#firstName, #secondName, #email, #examScore, #removeButton {*/
+    /*display: inline-block;*/
+    /*vertical-align: middle;*/
+/*}*/
+
+#addButton, #sortBy, #order, #submit {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.button {
+    width: 25px;
+    height: 25px;
+    background-color: darkblue;
+    color: white;
+    font-weight: bold;
+}
+
+.submit {
+    width: 80px;
+    height: 25px;
+    background-color: darkblue;
+    color: white;
+    font-weight: bold;
+}
+.inputTable {
+}
